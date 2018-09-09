@@ -1,2 +1,2 @@
-# Puzzles-with-Python-
+# Puzzles-with-Python
 Solving different puzzles with python
